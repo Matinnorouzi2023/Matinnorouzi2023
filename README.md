@@ -1,16 +1,20 @@
 ### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Matin</h1>
+<h3 align="center"> Master CS Instructor at TVU | Promoting STEM| Python| SQL| Java</h3>
 
-<!--
-**Matinnorouzi2023/Matinnorouzi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://www.uplooder.net/img/image/84/f30bdfb3668786e4d5d0a982ae9cdafd/1.svg" alt="Matin" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UCx6UxN4a9x8NsLbwJqNFyDQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matinhajnorouzi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Matinnorouziiii">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Matinnorouzi2023&show_icons=true&locale=en" alt="Matin" /></p>
