@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi there 👋, I'm Matin</h1>
-<h3 align="center"> Master CS Instructor at TVU | Promoting STEM| Python| SQL| Java</h3>
+<h3 align="center"> Master CS Instructor at TVU | Promoting STEM| Python| SQL| Java|AI and Large Language Models|Machine Learning</h3>
 
 <p align="left"> <img src="https://www.uplooder.net/img/image/84/f30bdfb3668786e4d5d0a982ae9cdafd/1.svg" alt="Matin" /> </p>
 
